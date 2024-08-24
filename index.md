@@ -1,3 +1,9 @@
+# Steve's First CS193 Homework
+
+- Helpful for learning GitHub
+- Only 1 lecture per week
+- Instructors are sophomores, so they can speak more directly from experience
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
