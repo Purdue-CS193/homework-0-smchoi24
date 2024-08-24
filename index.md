@@ -1,8 +1,10 @@
 # Steve's First CS193 Homework
 
-- Helpful for learning GitHub
+- Helpful for learning GitHub and other useful resources for future courses
 - Only 1 lecture per week
 - Instructors are sophomores, so they can speak more directly from experience
+- Instructors seem very friendly
+- Less pressure for grades, can provide a smooth transition into college courses for freshmen
 
 ## Welcome to GitHub Pages
 
@@ -33,11 +35,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
